@@ -34,4 +34,4 @@ Welcome to the **Superstore Sales Dashboard** project! This dashboard is built u
 ## How to Use
 Clone this repository:
    ```bash
-   git clone https://github.com/IamHamzaAziz/sales-dashboard-powerbi.git```
+   git clone https://github.com/IamHamzaAziz/sales-dashboard-powerbi.git
